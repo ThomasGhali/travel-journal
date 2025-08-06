@@ -34,7 +34,7 @@ header styling
   display: flex;
   justify-content: center;
   align-items: center;
-  column-gap: 15px;
+  column-gap: 10px;
   height: 60px;
   background-color: #F55A5A;
   font-size: 1.2rem;
@@ -57,8 +57,12 @@ a {
   display: flex;
   align-items: center;
   font-size: 10.24px;
-  padding: 40px;
+  margin: 20px;
+  padding: 20px;
   /* outline: 1px solid #F55A5A; */
+  border-radius: 10px;
+  background: #fefafa;
+  box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.068);
 }
 
 .main-image-container {

@@ -5,7 +5,7 @@ export default function Header() {
     <header id="page-header">
       <div className="header__details">
         <img src={globeImg} alt="globe image" className="header__img" />
-        <span className="header__text"> my travel journal</span>
+        <span className="header__text"> Tom travel journal</span>
       </div>
     </header>
   )
